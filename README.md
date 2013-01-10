@@ -37,9 +37,10 @@ Markdown is widely accepted by [developers and editors](https://www.google.com/w
 
 ####iOS Apps
 
-- [Nocs](http://www.wisd.com/nocs/)
+- [Nocs](http://www.wisd.com/nocs)
 - [iWriter](http://www.iawriter.com)
-- [Elements](http://www.secondgearsoftware.com/elements/)
+- [Elements](http://www.secondgearsoftware.com/elements)
+- [Nebulous Lite](http://nebulousapps.net)
 
 ####Other
 
