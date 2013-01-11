@@ -1,4 +1,4 @@
-#What is Markdown?
+# What is Markdown?
 
 ###You may have heard about Markdown, if you have it's a good thing.
 **Markdown means that your website is being built correctly.. by professionals.**
@@ -22,6 +22,7 @@ Markdown is widely accepted by [developers and editors](https://www.google.com/w
 ####Desktop Editors
 
 - [Mou](http://mouapp.com/) for Mac (it's free and it's best), or 
+- [MarkdownPad](http://markdownpad.com) (windows)
 - [something like Mou](http://alternativeto.net/software/mou/?platform=windows) for Windows
 - (Mac) [ByWord](http://bywordapp.com/) - $9.99
 - Find another one for [Mac](https://www.google.com/webhp?sourceid=chrome-instant&ie=UTF-8&ion=1&safe=on#hl=en&safe=active&sclient=psy-ab&q=markdown+apps&oq=markdown+apps&aq=f&aqi=g1g-v1&aql=&gs_sm=3&gs_upl=2045l4743l0l4997l13l13l0l0l0l0l219l2381l0.11.2l13l0&gs_l=serp.3..0j0i15.2045l4743l0l4998l13l13l0l0l0l0l219l2381l0j11j2l13l0.&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.,cf.osb&fp=d676aabec5c97b83&ion=1&biw=1115&bih=893) or [PC]()
@@ -30,8 +31,9 @@ Markdown is widely accepted by [developers and editors](https://www.google.com/w
 
 - [Dillinger](http://dillinger.io)
 - [Markable](http://markable.in)
-- [MarkdownPad](http://markdownpad.com) (windows)
-- Both Mac and Windows users can use [Dingus](http://daringfireball.net/projects/markdown/dingus), which is a quick online tool (that means it works in your browser) made by Gruber. There are many of these tools so if you want to work in a browser, [find the one you like best](https://www.google.com/webhp?sourceid=chrome-instant&ie=UTF-8&ion=1&safe=on#hl=en&safe=active&sclient=psy-ab&q=online+markdown+editor+tool&oq=online+markdown+editor+tool&aq=f&aqi=q-n1&aql=&gs_sm=3&gs_upl=2271l2271l3l2666l1l1l0l0l0l0l207l207l2-1l1l0&gs_l=hp.3..33i38.2271l2271l3l2667l1l1l0l0l0l0l207l207l2-1l1l0.&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.,cf.osb&fp=d676aabec5c97b83&ion=1&biw=1155&bih=925). 
+- [Calepin](http://calepin.co)
+- [Prose](http://prose.io)
+- [Dingus](http://daringfireball.net/projects/markdown/dingus), which is a quick online tool (that means it works in your browser) made by Gruber. There are many of these tools so if you want to work in a browser, [find the one you like best](https://www.google.com/webhp?sourceid=chrome-instant&ie=UTF-8&ion=1&safe=on#hl=en&safe=active&sclient=psy-ab&q=online+markdown+editor+tool&oq=online+markdown+editor+tool&aq=f&aqi=q-n1&aql=&gs_sm=3&gs_upl=2271l2271l3l2666l1l1l0l0l0l0l207l207l2-1l1l0&gs_l=hp.3..33i38.2271l2271l3l2667l1l1l0l0l0l0l207l207l2-1l1l0.&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.,cf.osb&fp=d676aabec5c97b83&ion=1&biw=1155&bih=925). 
 - If you want to turn a website into Markdown, then its easy to do with [html2text](http://www.aaronsw.com/2002/html2text/) (also see [Marky](http://markdownrules.com/))
 - I really like using [gist](https://gist.github.com/) by github for sharing and collaborating (called forking) on documents. [Here's a sample](https://gist.github.com/2152688) :P
 
