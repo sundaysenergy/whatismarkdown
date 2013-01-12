@@ -25,7 +25,8 @@ Markdown is widely accepted by [developers and editors](https://www.google.com/w
 - [ByWord](http://bywordapp.com/) for Mac ($9.99), or
 - [MarkdownPad](http://markdownpad.com) for Windows, or
 - [MarkPad](http://code52.org/DownmarkerWPF) for Windows, or
-- Find another one...
+- [Marked](http://itunes.apple.com/us/app/marked/id448925439?mt=12) for Mac ($3.99). It provides a preview of your (Multi)Markdown as you work in any text editor.
+- Or find another one and let us know about it.
 
 #### Online Tools
 
@@ -43,11 +44,6 @@ Markdown is widely accepted by [developers and editors](https://www.google.com/w
 - [iWriter](http://www.iawriter.com)
 - [Elements](http://www.secondgearsoftware.com/elements)
 - [Nebulous Lite](http://nebulousapps.net)
-
-####Other
-
-- (Mac) [Marked](http://itunes.apple.com/us/app/marked/id448925439?mt=12) ($3.99) provides a preview of your (Multi)Markdown as you work in any text editor.
-
 
 ##How do I write this Markdown stuff?
 When developers talk about how to write something, they call it syntax.  
