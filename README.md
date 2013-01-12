@@ -1,6 +1,6 @@
 # What is Markdown?
 
-###You may have heard about Markdown, if you have it's a good thing.
+### You may have heard about Markdown, if you have it's a good thing.
 **Markdown means that your website is being built correctly.. by professionals.**
 
 In the past you may have heard of [WYSIWYG](http://en.wikipedia.org/wiki/WYSIWYG) (what you see is what you get) formatting. Think of Markdown like a simplified WYSIWYG.. simplified in the best way.
@@ -14,20 +14,20 @@ Bottom line, people who edit content should focus on the words and the designer 
 
 Markdown is widely accepted by [developers and editors](https://www.google.com/webhp?sourceid=chrome-instant&ie=UTF-8&ion=1&safe=on#hl=en&safe=active&sclient=psy-ab&q=love+markdown&oq=love+markdown&aq=f&aqi=g-v1&aql=1&gs_l=hp.3..0i15.71l18176l0l18448l22l21l1l0l0l0l375l3026l10j7j0j4l23l0.pfwe.1.&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.,cf.osb&fp=841a85abab3be8d1&ion=1&biw=1155&bih=1017), so it's the best choice for implementing best practice. Nearly every popular Content management solution supports Markdown, if not out-of-the-box, then with an easy-to-install extension.
 
-##Markdown tools (this is the good stuff)
+## Markdown tools (this is the good stuff)
 
 **Anyone who works with content should be using one of the following tools...**
-*Note: Everything about Markdown is free, paid stuff is totally optional and often worse.*
+*Note: Everything about Markdown is free, paid stuff is totally optional and sometimes worse.*
 
-####Desktop Editors
+#### Desktop Editors
 
-- [Mou](http://mouapp.com/) for Mac (it's free and it's best), or 
-- [MarkdownPad](http://markdownpad.com) (windows)
-- [something like Mou](http://alternativeto.net/software/mou/?platform=windows) for Windows
-- (Mac) [ByWord](http://bywordapp.com/) - $9.99
-- Find another one for [Mac](https://www.google.com/webhp?sourceid=chrome-instant&ie=UTF-8&ion=1&safe=on#hl=en&safe=active&sclient=psy-ab&q=markdown+apps&oq=markdown+apps&aq=f&aqi=g1g-v1&aql=&gs_sm=3&gs_upl=2045l4743l0l4997l13l13l0l0l0l0l219l2381l0.11.2l13l0&gs_l=serp.3..0j0i15.2045l4743l0l4998l13l13l0l0l0l0l219l2381l0j11j2l13l0.&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.,cf.osb&fp=d676aabec5c97b83&ion=1&biw=1115&bih=893) or [PC]()
+- [Mou](http://mouapp.com/) for Mac (it's free and it's best), or
+- [ByWord](http://bywordapp.com/) for Mac ($9.99), or
+- [MarkdownPad](http://markdownpad.com) for Windows, or
+- [MarkPad](http://code52.org/DownmarkerWPF) for Windows, or
+- Find another one...
 
-####Online Tools
+#### Online Tools
 
 - [Dillinger](http://dillinger.io)
 - [Markable](http://markable.in)
