@@ -86,8 +86,3 @@ It did have out-of-the-box support for tables tho, which was quite nice.
 
 ##Take action! 
 Demand that your web projects be built with Markdown.
-
----
-
-- This page was built with [Markdown](http://daringfireball.net/projects/markdown/) and [Symphony](http://symphony-cms.com/) by [Kirk Strobeck](http://kirkstrobeck.com/)
-- Feel free to fork this page and edit, let's [make it better](https://github.com/kirkstrobeck/whatismarkdown).
