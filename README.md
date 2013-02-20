@@ -21,15 +21,16 @@ Markdown is widely accepted by [developers and editors](https://www.google.com/w
 
 #### Desktop Editors
 
-- [Mou](http://mouapp.com/) for Mac (it's free and it's best), or
-- [ByWord](http://bywordapp.com/) for Mac ($9.99), or
-- [MarkdownPad](http://markdownpad.com) for Windows, or
-- [MarkPad](http://code52.org/DownmarkerWPF) for Windows, or
+- [Mou](http://mouapp.com/) for Mac (it's free and it's best)
+- [ByWord](http://bywordapp.com/) for Mac ($9.99)
+- [MarkdownPad](http://markdownpad.com) for Windows
+- [MarkPad](http://code52.org/DownmarkerWPF) for Windows
 - [Marked](http://itunes.apple.com/us/app/marked/id448925439?mt=12) for Mac ($3.99). It provides a preview of your (Multi)Markdown as you work in any text editor.
 - Or find another one and let us know about it.
 
 #### Online Tools
 
+- [Hashify](http://hashify.me)
 - [Dillinger](http://dillinger.io)
 - [Markable](http://markable.in)
 - [Calepin](http://calepin.co)
