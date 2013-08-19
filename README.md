@@ -82,4 +82,4 @@ It did have out-of-the-box support for tables tho, which was quite nice.
 	- [Hobix](http://redcloth.org/hobix.com/textile/) - Formatting guide
 
 ##Take action! 
-Demand that your web projects be built with Markdown.
+Demand that your content projects be built with Markdown.
