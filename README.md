@@ -5,8 +5,7 @@
 
 In the past you may have heard of [WYSIWYG](http://en.wikipedia.org/wiki/WYSIWYG) (what you see is what you get) formatting. Think of Markdown like a simplified WYSIWYG.. simplified in the best way.
 
-When web designers and developers approach a project, they build [styles](http://www.w3schools.com/css/) into the project.  
-Those styles dictate how basic elements, like headers and links, will appear.
+When designers and developers approach a project, they build [styles](http://www.w3schools.com/css/) into the project.  Those styles dictate how basic elements, like headers and links, will appear. The styles are applied throughout the entire project.
 
 In the past, a WYSIWYG editing tool had too much control. Someone could unknowingly add a new style to the design (like red italic bold headers) without meaning to. More often then not, it was a purposeful addition, but that leads to a *race to the bottom*, so style treatment became larger, bolder, and brighter. This makes designers sad :( because their carefully crafted theme is tossed by the wayside, like stuff.. old stuff.
 
