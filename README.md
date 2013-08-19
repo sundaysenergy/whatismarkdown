@@ -11,7 +11,7 @@ In the past, a WYSIWYG editing tool had too much control. Someone could unknowin
 
 Bottom line, people who edit content should focus on the words and the designer should make them pretty. Markdown does an excellent job at drawing a line in the sand, equipping us to all play nice together. The neat part is that when a designer pushes a new style to your website, it is consistently reflected across the whole chalupa, so they keep the design fresh and stay on top of browser caveats and features. (dropshadow anyone?)
 
-Markdown is widely accepted by [developers and editors](https://www.google.com/webhp?sourceid=chrome-instant&ie=UTF-8&ion=1&safe=on#hl=en&safe=active&sclient=psy-ab&q=love+markdown&oq=love+markdown&aq=f&aqi=g-v1&aql=1&gs_l=hp.3..0i15.71l18176l0l18448l22l21l1l0l0l0l375l3026l10j7j0j4l23l0.pfwe.1.&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.,cf.osb&fp=841a85abab3be8d1&ion=1&biw=1155&bih=1017), so it's the best choice for implementing best practice. Nearly every popular Content management solution supports Markdown, if not out-of-the-box, then with an easy-to-install extension.
+Markdown is widely accepted by [developers and editors](https://www.google.com/webhp?ie=UTF-8&ion=1&safe=on#hl=en&safe=active&sclient=psy-ab&q=love+markdown&oq=love+markdown), so it's the best choice for implementing best practice. Nearly every popular Content management solution supports Markdown, if not out-of-the-box, then with an easy-to-install extension.
 
 ## Markdown tools (this is the good stuff)
 
