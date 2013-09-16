@@ -30,6 +30,7 @@ Markdown is widely accepted by [developers and editors](https://www.google.com/w
 #### Online Tools
 
 - [Hashify](http://hashify.me)
+- [jbt editor](http://jbt.github.io/markdown-editor/) Similar to Hashify.
 - [Dillinger](http://dillinger.io)
 - [Markable](http://markable.in)
 - [Calepin](http://calepin.co)
