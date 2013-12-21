@@ -15,6 +15,8 @@ Markdown is widely accepted by [developers and editors](https://www.google.com/w
 
 ## Markdown tools (this is the good stuff)
 
+http://mashable.com/2013/06/24/markdown-tools
+
 **Anyone who works with content should be using one of the following tools...**
 *Note: Everything about Markdown is free, paid stuff is totally optional and sometimes worse.*
 
