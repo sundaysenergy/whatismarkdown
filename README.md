@@ -31,6 +31,7 @@ http://mashable.com/2013/06/24/markdown-tools
 
 #### Online Tools
 
+- [Stack Edit](https://stackedit.io)
 - [Hashify](http://hashify.me)
 - [jbt editor](http://jbt.github.io/markdown-editor/) Similar to Hashify.
 - [Dillinger](http://dillinger.io)
